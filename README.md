@@ -87,3 +87,7 @@ Submits a job application.
 
 This project is licensed under the Apache-2.0 License.
 
+## deployed netlify link
+```bash
+https://prodev-fe-interactive-job-board.netlify.app/
+```
